@@ -1,0 +1,21 @@
+	TIMES			P	J	V	E	D	GP	GC	SG	%
+1	Corinthians		53	24	16	5	3	34	13	21	73
+2	Gremio			43	24	13	4	7	40	21	19	59
+3	Santos			41	24	11	8	5	25	16	9	56
+4	Palmeiras		40	24	12	4	8	35	26	9	55
+5	Flamengo		38	24	10	8	6	33	23	10	52
+6	Cruzeiro		37	24	10	7	7	29	21	8	51
+7	Botafogo		37	24	10	7	7	29	23	6	51
+8	Atletico-PR		34	24	9	7	8	29	27	2	47
+9	Vasco da Gama	31	24	9	4	11	24	35	-11	43
+10	Atletico-MG		31	24	8	7	9	26	28	-2	43
+11	Fluminense		31	24	7	10	7	34	34	0	43
+12	Sport			29	24	8	5	11	30	36	-6	40
+13	Avai			29	24	7	8	9	15	27	-12	40
+14	Chapecoense		28	24	8	4	12	28	37	-9	38
+15	Ponte Preta		28	24	7	7	10	26	32	-6	38
+16	Bahia			24	7	6	11	30	32	-2	37	0
+17	Sao Paulo		27	24	7	6	11	32	36	-4	37
+18	Coritiba		27	24	7	6	11	22	29	-7	37
+19	Vitiria			26	24	7	5	12	26	35	-9	36
+20	Atletico-GO		22	24	6	4	14	22	38	-16	30
